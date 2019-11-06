@@ -16,11 +16,11 @@ function searchMe(request, Title) {
             spotifyThis(Title);
             break;
 
-        case "omdbThis":
+        case "movieThis":
             ombdThis(Title);
             break;
 
-        case "bandsThis":
+        case "concertThis":
             bandsThis(Title);
             break;
 
