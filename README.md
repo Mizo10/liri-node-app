@@ -19,7 +19,7 @@ do-what-it-says
      * Venue location
      * Date of the Event ("MM/DD/YYYY")
      Inline-style: 
-!(https://i.ibb.co/p1Mmfz4/concert-This.png)
+![Image](https://i.ibb.co/p1Mmfz4/concert-This.png)
 
 2. `node liri.js spotifyThis '<song name here>'`
 
