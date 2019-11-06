@@ -28,7 +28,7 @@ do-what-it-says
      * The album that the song is from
      * A preview link of the song from Spotify
      Inline-style: 
-!(https://i.ibb.co/sP139c5/spotify-This.png)
+![Image](https://i.ibb.co/sP139c5/spotify-This.png)
      
      *If no song is provided then your program will default to "The Sign"*
 
@@ -43,12 +43,12 @@ do-what-it-says
      * Plot of the movie.
      * Actors in the movie.
      Inline-style: 
-!(https://i.ibb.co/0sy2zzh/movie-This.png)
+![Image](https://i.ibb.co/0sy2zzh/movie-This.png)
      
       
 4. `node liri.js do-what-it-says`
 Inline-style: 
-!(https://i.ibb.co/4F5SqLg/do-what-it-says.png)
+![Image](https://i.ibb.co/4F5SqLg/do-what-it-says.png)
 
    
    
