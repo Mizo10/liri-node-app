@@ -13,13 +13,13 @@ moviethis
 do-what-it-says
 
 # What Each Commands Can Do
-1. `node liri.js concert-this <artist/band name here>`
+1. `node liri.js concertThis <artist/band name here>`
 
      * Name of the venue
      * Venue location
      * Date of the Event ("MM/DD/YYYY")
 
-2. `node liri.js spotify-this-song '<song name here>'`
+2. `node liri.js spotifyThis '<song name here>'`
 
      * The song's name
      * Artist(s)
@@ -28,7 +28,7 @@ do-what-it-says
      
      *If no song is provided then your program will default to "The Sign"*
 
-3. `node liri.js movie-this '<movie name here>'`
+3. `node liri.js movieThis '<movie name here>'`
 
      * Title of the movie.
      * Year the movie came out.
