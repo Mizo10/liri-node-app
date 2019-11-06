@@ -18,6 +18,8 @@ do-what-it-says
      * Name of the venue
      * Venue location
      * Date of the Event ("MM/DD/YYYY")
+     Inline-style: 
+!(https://i.ibb.co/p1Mmfz4/concert-This.png)
 
 2. `node liri.js spotifyThis '<song name here>'`
 
@@ -25,6 +27,8 @@ do-what-it-says
      * Artist(s)
      * The album that the song is from
      * A preview link of the song from Spotify
+     Inline-style: 
+!(https://i.ibb.co/sP139c5/spotify-This.png)
      
      *If no song is provided then your program will default to "The Sign"*
 
@@ -38,12 +42,15 @@ do-what-it-says
      * Language of the movie.
      * Plot of the movie.
      * Actors in the movie.
+     Inline-style: 
+!(https://i.ibb.co/0sy2zzh/movie-This.png)
      
-     *If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'*
       
 4. `node liri.js do-what-it-says`
+Inline-style: 
+!(https://i.ibb.co/4F5SqLg/do-what-it-says.png)
 
-   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+   
    
 # Technologies Used
 
